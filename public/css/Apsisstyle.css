@@ -1,0 +1,75 @@
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.ibox-content h1, .ibox-content h2, .ibox-content h3, .ibox-content h4, .ibox-content h5, .ibox-title h1, .ibox-title h2, .ibox-title h3, .ibox-title h4, .ibox-title h5 {
+    margin-top: 0;
+}
+.ibox-tools a {
+    color: #333333 !important;
+}
+.nav > li > a {
+    padding: 5px 15px 5px 15px;
+}
+.nav-second-level li a {
+    padding: 5px 10px 5px 10px;
+    padding-left: 25px;
+}
+.form-label{
+    margin-bottom: .1rem;
+    font-weight: 600;
+}
+.form-group {
+    margin-bottom: .5rem;
+}
+.modal-lg {
+    max-width: 90% !important;
+}
+.modal-md {
+    max-width: 60% !important;
+}
+.inmodal .modal-header {
+    padding: 15px 10px;
+}
+.modal-body {
+    padding: 15px;
+}
+.table-condensed > tbody > tr > td{
+    padding: .4rem;
+}
+.table > tbody > tr > td {
+    padding: 3px !important;
+    vertical-align: middle;
+}
+.dataTables_wrapper {
+    padding-bottom: 10px;
+}
+@media (min-width: 660px) {
+    .dataTables_paginate {
+        float: right;
+    }
+}
+.wrapper-content {
+    padding: 10px 0px 25px;
+}
+.ibox-content {
+    padding: 15px;
+}
+.container-fluid {
+    padding: 0;
+}
+.no-display{
+    display: none;
+}
+.nav-header {
+    padding: 5px 10px;
+}
+.feed-element {
+    padding-bottom: 5px;
+}
+
+
+/*multiselect label full width clickable*/
+.multiselect-container>li>a>label {
+    width: 100% !important;
+}
